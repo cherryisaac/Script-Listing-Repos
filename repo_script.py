@@ -1,7 +1,6 @@
 import requests
 import csv
 
-# github_token = "YOUR_AUTH_TOKEN"
 
 # Github auth token required to run file/url more than 60 times per hour otherwise comment this out along with headers=headers
 print("Please input auth token:")
